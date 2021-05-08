@@ -14,11 +14,13 @@ print('this is my fintech space')
 
 > "this is a quote"
 
-[code](code)
+# Table of Contents
 
-[references](references)
+[click here to go to code folder](code)
 
-[data](data)
+[click here to go to references folder](references)
+
+[click here to go to data folder](data)
 
 ![picture](NT.jpg)
 
